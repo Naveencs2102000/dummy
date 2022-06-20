@@ -1,3 +1,3 @@
 "hi\nhow are you"  
 edit in remote repo
-first add
+first added
