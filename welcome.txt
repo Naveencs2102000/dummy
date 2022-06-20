@@ -1,3 +1,4 @@
 "hi\nhow are you"  
 edit in remote repo
 first added
+hello first
